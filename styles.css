@@ -12,6 +12,11 @@ body {
     padding: 20px;
 }
 
+img {
+    display: block;
+    margin: 0 auto;
+}
+
 hr {
     height: 2px;
     background-color: brown;
@@ -35,6 +40,7 @@ h1 {
 h2 {
     font-size: 30px;
 }
+
 .established {
     font-style: italic;
 }
