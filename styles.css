@@ -6,6 +6,7 @@ body {
     width: 80%;
     background-color: burlywood;
     margin: auto;
+    padding: 20px;
 }
 
 h1, h2, p{
