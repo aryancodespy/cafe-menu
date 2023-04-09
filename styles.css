@@ -1,5 +1,11 @@
-body {
+/* body {
+    
+} */
+
+.container {
+    width: 80%;
     background-color: burlywood;
+    margin: auto;
 }
 
 h1, h2, p{
