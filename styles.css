@@ -1,8 +1,8 @@
-/* body {
-    
-} */
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+}
 
-.container {
+.menu {
     width: 80%;
     background-color: burlywood;
     margin: auto;
